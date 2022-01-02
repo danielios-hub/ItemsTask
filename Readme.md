@@ -1,5 +1,6 @@
 
 # Some company test 
+[![CI](https://github.com/danielios-hub/ItemsTask/actions/workflows/CI_IOS.yml/badge.svg)](https://github.com/danielios-hub/ItemsTask/actions/workflows/CI_IOS.yml)
 
 ## BDD Specs 
 
